@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "187b512d3cb4df7fd4446a2e7cf8cd66",
+    "revision": "dead12f3004aee8840e361a70201609c",
     "url": "/reactBootcampKodluyoruz/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactBootcampKodluyoruz/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "094eecd10fb901495b49",
+    "revision": "b87c2b11f9ef523ab269",
     "url": "/reactBootcampKodluyoruz/static/css/main.b2343894.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactBootcampKodluyoruz/static/js/2.8c670ef0.chunk.js.LICENSE"
   },
   {
-    "revision": "094eecd10fb901495b49",
-    "url": "/reactBootcampKodluyoruz/static/js/main.b7dee3f5.chunk.js"
+    "revision": "b87c2b11f9ef523ab269",
+    "url": "/reactBootcampKodluyoruz/static/js/main.f8a40bcd.chunk.js"
   },
   {
     "revision": "6d43ec97915d48da3e5e",
