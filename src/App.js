@@ -33,7 +33,7 @@ function App() {
         <Route path="/petsapp">
         <PetsApp />
         </Route>
-        <Route path="/">
+        <Route exact path="/">
           <Homepage />
         </Route>
       </Switch>
