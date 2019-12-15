@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactBootcampKodluyoruz/static/css/main.b2343894.chunk.css",
-    "main.js": "/reactBootcampKodluyoruz/static/js/main.f8a40bcd.chunk.js",
-    "main.js.map": "/reactBootcampKodluyoruz/static/js/main.f8a40bcd.chunk.js.map",
+    "main.js": "/reactBootcampKodluyoruz/static/js/main.4db29f14.chunk.js",
+    "main.js.map": "/reactBootcampKodluyoruz/static/js/main.4db29f14.chunk.js.map",
     "runtime-main.js": "/reactBootcampKodluyoruz/static/js/runtime-main.e44f523c.js",
     "runtime-main.js.map": "/reactBootcampKodluyoruz/static/js/runtime-main.e44f523c.js.map",
     "static/css/2.17e5ed98.chunk.css": "/reactBootcampKodluyoruz/static/css/2.17e5ed98.chunk.css",
     "static/js/2.8c670ef0.chunk.js": "/reactBootcampKodluyoruz/static/js/2.8c670ef0.chunk.js",
     "static/js/2.8c670ef0.chunk.js.map": "/reactBootcampKodluyoruz/static/js/2.8c670ef0.chunk.js.map",
     "index.html": "/reactBootcampKodluyoruz/index.html",
-    "precache-manifest.8c96d655e145d21df6070de6d28e4b5c.js": "/reactBootcampKodluyoruz/precache-manifest.8c96d655e145d21df6070de6d28e4b5c.js",
+    "precache-manifest.20a25283cd83cbbf385309cac2c16c13.js": "/reactBootcampKodluyoruz/precache-manifest.20a25283cd83cbbf385309cac2c16c13.js",
     "service-worker.js": "/reactBootcampKodluyoruz/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/reactBootcampKodluyoruz/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.b2343894.chunk.css.map": "/reactBootcampKodluyoruz/static/css/main.b2343894.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.8c670ef0.chunk.js",
     "static/css/main.b2343894.chunk.css",
-    "static/js/main.f8a40bcd.chunk.js"
+    "static/js/main.4db29f14.chunk.js"
   ]
 }
