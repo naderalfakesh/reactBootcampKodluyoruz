@@ -17,19 +17,19 @@ Hello everyone, My name is Nadir Alfakesh , I joined React JS bootcamp and I wan
 
 ## Projects: 
 
-1. Coin flipper: 
+1. ##### Coin flipper: 
 
    Basically an entry example to use React state and props with handling promises to deal with animations.  
 
-2. Burger builder:
+2. ##### Burger builder:
 
    An example of splitting web apps into smaller reusable pieces (components) 
 
-3. ToDo list : 
+3. ##### ToDo list : 
 
    Some would say that every web app is basically a ToDo list so it is a good practice to make such app when learning a new technology 
 
-4. Pets app : 
+4. ##### Pets app : 
 
    This app is more focused about on handling API requests , filtering result and search. 
 
